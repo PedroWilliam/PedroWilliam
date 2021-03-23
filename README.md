@@ -2,6 +2,12 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PedroWilliam&show_icons=true&theme=graywhite&hide=stars&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+Hey, I'm @PedroWilliam
+
+I'm a software engineer .NET
+
+- 🔭 I’m currently working on Delivery API [@BS Food](https://bsfood.com.br/)
+
 <!--
 **PedroWilliam/PedroWilliam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
