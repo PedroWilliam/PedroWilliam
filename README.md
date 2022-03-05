@@ -1,6 +1,6 @@
 <!-- ### Pedro William B Moraes -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PedroWilliam&show_icons=true&theme=graywhite&hide=stars&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![PedroWilliam's github stats](https://github-readme-stats.vercel.app/api?username=PedroWilliam&show_icons=true&theme=graywhite&hide=stars&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Hey, I'm @PedroWilliam
 
@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroWilliam&count_private=true&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pedrowilliam&custom_title=Wakatime%20Status%20(Last%207%20days))](https://github.com/anuraghazra/github-readme-stats)
+[![pedrowilliam's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pedrowilliam&custom_title=Wakatime%20Status%20(Last%207%20days))](https://github.com/anuraghazra/github-readme-stats)
