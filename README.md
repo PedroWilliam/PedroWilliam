@@ -22,3 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroWilliam&count_private=true&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pedrowilliam&custom_title=Wakatime%20Status%20(Last%207%20days))](https://github.com/anuraghazra/github-readme-stats)
