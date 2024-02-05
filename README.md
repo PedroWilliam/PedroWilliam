@@ -1,6 +1,6 @@
 <!-- ### Pedro William B Moraes -->
 
-### Hi, I'm @PedroWilliam <img src="https://giphy.com/media/Cx4pYO8Yd73Pr9QLOj/giphy.gif" width="30">
+### Hi, I'm @PedroWilliam <img src="https://media.giphy.com/media/Cx4pYO8Yd73Pr9QLOj/giphy.gif" width="30">
 
 I'm a software engineer with a strong foundation in .NET technologies, specializing in developing robust **Web APIs**. With a passion for building scalable and efficient solutions, I've honed my skills in a variety of technologies to enhance my core expertise.
 
