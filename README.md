@@ -12,3 +12,6 @@ Beyond my specialization in C# .NET Web APIs, I have a diverse skill set in seco
 - 💾 Proficient in **relational databases**, with a strong command over **MySQL**, **SQL Server**, and **Postgres**, ensuring data integrity and optimal performance.
 
 This blend of primary and secondary skills enables me to approach projects with a holistic view, ensuring robust backend services, engaging front-ends, and reliable data management.
+
+[![LinkedIn Badge](https://img.shields.io/badge/-pedrowilliam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrowilliam)](https://www.linkedin.com/in/pedrowilliam)
+[![Gmail Badge](https://img.shields.io/badge/-pedrowilliam.dev%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrowilliam.dev%40gmail.com)](mailto:pedrowilliam.dev@gmail.com)
