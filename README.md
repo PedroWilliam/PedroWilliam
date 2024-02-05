@@ -1,28 +1,14 @@
 <!-- ### Pedro William B Moraes -->
 
-[![PedroWilliam's github stats](https://github-readme-stats.vercel.app/api?username=PedroWilliam&show_icons=true&theme=graywhite&hide=stars&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+### Hi, I'm @PedroWilliam <img src="https://giphy.com/media/Cx4pYO8Yd73Pr9QLOj/giphy.gif" width="30">
 
-Hey, I'm @PedroWilliam
+I'm a software engineer with a strong foundation in .NET technologies, specializing in developing robust **Web APIs**. With a passion for building scalable and efficient solutions, I've honed my skills in a variety of technologies to enhance my core expertise.
 
-I'm a software engineer .NET
+- 🔭 I’m currently contributing to the Delivery API project [@BS Food](https://bsfood.com.br/), where I apply my in-depth knowledge of .NET to improve backend services and user experiences.
 
-- 🔭 I’m currently working on Delivery API [@BS Food](https://bsfood.com.br/)
+Beyond my specialization in C# .NET Web APIs, I have a diverse skill set in secondary development areas, including:
+- 📱 Mobile app development with **React Native** and **Android Native**, where I create intuitive and responsive user interfaces.
+- 🖥️ Desktop application development using legacy technologies such as **Windows Forms**, maintaining and upgrading existing applications for continued relevance.
+- 💾 Proficient in **relational databases**, with a strong command over **MySQL**, **SQL Server**, and **Postgres**, ensuring data integrity and optimal performance.
 
-<!--
-**PedroWilliam/PedroWilliam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroWilliam&count_private=true&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
-[![pedrowilliam's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pedrowilliam&custom_title=Wakatime%20Status%20(Last%207%20days))](https://github.com/anuraghazra/github-readme-stats)
+This blend of primary and secondary skills enables me to approach projects with a holistic view, ensuring robust backend services, engaging front-ends, and reliable data management.
